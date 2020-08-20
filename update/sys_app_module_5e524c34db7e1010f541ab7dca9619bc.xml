@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="list wish test">d00da7a4db3e1010f541ab7dca96191d</application>
+        <application display_value="Wish Item">5a524c34db7e1010f541ab7dca9619b9</application>
         <assessment/>
         <device_type/>
         <filter/>
@@ -10,31 +10,31 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>All</mobile_title>
+        <mobile_title>Wish Itemqs</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_515994_list_wish_wish_item</name>
-        <order>3</order>
+        <name>x_515994_list_wish_wish_itemq</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_515994_list_wish.wish_itemq_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-20 06:34:44</sys_created_on>
+        <sys_created_on>2020-08-20 08:07:59</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>940d6fe4db3e1010f541ab7dca96199d</sys_id>
+        <sys_id>5e524c34db7e1010f541ab7dca9619bc</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_name>Wish Itemqs</sys_name>
         <sys_overrides/>
         <sys_package display_value="list wish test" source="x_515994_list_wish">d6bb2fa4db3e1010f541ab7dca9619cb</sys_package>
         <sys_policy/>
         <sys_scope display_value="list wish test">d6bb2fa4db3e1010f541ab7dca9619cb</sys_scope>
-        <sys_update_name>sys_app_module_940d6fe4db3e1010f541ab7dca96199d</sys_update_name>
+        <sys_update_name>sys_app_module_5e524c34db7e1010f541ab7dca9619bc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-20 06:34:44</sys_updated_on>
+        <sys_updated_on>2020-08-20 08:07:59</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Wish Itemqs</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

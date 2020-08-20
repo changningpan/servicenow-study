@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-20 06:33:07</sys_created_on>
+        <sys_id>68ac6be4db3e1010f541ab7dca961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_515994_list_wish_wish_item.x_515994_list_wish.user</sys_name>
+        <sys_package display_value="list wish test" source="x_515994_list_wish">d6bb2fa4db3e1010f541ab7dca9619cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="list wish test">d6bb2fa4db3e1010f541ab7dca9619cb</sys_scope>
+        <sys_security_acl display_value="x_515994_list_wish_wish_item">6cac6be4db3e1010f541ab7dca961936</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_68ac6be4db3e1010f541ab7dca961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-20 06:33:07</sys_updated_on>
+        <sys_user_role display_value="x_515994_list_wish.user" name="x_515994_list_wish.user">58cba7a4db3e1010f541ab7dca9619ed</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="list wish test">d6bb2fa4db3e1010f541ab7dca9619cb</application>
+        <file_path/>
+        <instance_id>1eccc688db402b847d8cf22ebf96195b</instance_id>
+        <instance_name>dev70742</instance_name>
+        <name>sys_security_acl_role_68ac6be4db3e1010f541ab7dca961939</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-20 06:33:07</sys_created_on><sys_id>68ac6be4db3e1010f541ab7dca961939</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_515994_list_wish_wish_item.x_515994_list_wish.user</sys_name><sys_package display_value="list wish test" source="x_515994_list_wish">d6bb2fa4db3e1010f541ab7dca9619cb</sys_package><sys_policy/><sys_scope display_value="list wish test">d6bb2fa4db3e1010f541ab7dca9619cb</sys_scope><sys_security_acl display_value="x_515994_list_wish_wish_item">6cac6be4db3e1010f541ab7dca961936</sys_security_acl><sys_update_name>sys_security_acl_role_68ac6be4db3e1010f541ab7dca961939</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-20 06:33:07</sys_updated_on><sys_user_role display_value="x_515994_list_wish.user" name="x_515994_list_wish.user">58cba7a4db3e1010f541ab7dca9619ed</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>2046760125</payload_hash>
+        <record_name>x_515994_list_wish_wish_item.x_515994_list_wish.user</record_name>
+        <reverted_from/>
+        <source>96bb2fa4db3e1010f541ab7dca9619cd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-20 06:33:07</sys_created_on>
+        <sys_id>e0ac6be4db3e1010f541ab7dca96193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1740a9232980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-20 06:33:07</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>2cac6be4ce3e101093c4992486f6b53b</update_guid>
+        <update_guid_history>2cac6be4ce3e101093c4992486f6b53b:2046760125</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_515994_list_wish_wish_item.x_515994_list_wish.user">1c23c474db7e1010f541ab7dca96192c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-20 08:11:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>50c67ec59a9948bb9283b5f9f18e0d39</sys_id>
+        <sys_metadata>68ac6be4db3e1010f541ab7dca961939</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_515994_list_wish_wish_item.x_515994_list_wish.user</sys_name>
+        <sys_package display_value="list wish test" source="x_515994_list_wish">d6bb2fa4db3e1010f541ab7dca9619cb</sys_package>
+        <sys_parent display_value="">6cac6be4db3e1010f541ab7dca961936</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="list wish test">d6bb2fa4db3e1010f541ab7dca9619cb</sys_scope>
+        <sys_scope_delete display_value="">978a397344774d748c055decab6e9b09</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_68ac6be4db3e1010f541ab7dca961939</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_68ac6be4db3e1010f541ab7dca961939">e0ac6be4db3e1010f541ab7dca96193c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-20 08:11:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

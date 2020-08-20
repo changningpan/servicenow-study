@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_515994_list_wish_wish_item</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-20 06:33:04</sys_created_on>
+        <sys_id>7b9c2be4db3e1010f541ab7dca9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_515994_list_wish_wish_item</sys_name>
+        <sys_package display_value="list wish test" source="x_515994_list_wish">d6bb2fa4db3e1010f541ab7dca9619cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="list wish test">d6bb2fa4db3e1010f541ab7dca9619cb</sys_scope>
+        <sys_update_name>ua_table_licensing_config_7b9c2be4db3e1010f541ab7dca9619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-20 06:33:04</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="list wish test">d6bb2fa4db3e1010f541ab7dca9619cb</application>
+        <file_path/>
+        <instance_id>1eccc688db402b847d8cf22ebf96195b</instance_id>
+        <instance_name>dev70742</instance_name>
+        <name>ua_table_licensing_config_7b9c2be4db3e1010f541ab7dca9619af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_515994_list_wish_wish_item</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-20 06:33:04</sys_created_on><sys_id>7b9c2be4db3e1010f541ab7dca9619af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_515994_list_wish_wish_item</sys_name><sys_package display_value="list wish test" source="x_515994_list_wish">d6bb2fa4db3e1010f541ab7dca9619cb</sys_package><sys_policy/><sys_scope display_value="list wish test">d6bb2fa4db3e1010f541ab7dca9619cb</sys_scope><sys_update_name>ua_table_licensing_config_7b9c2be4db3e1010f541ab7dca9619af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-20 06:33:04</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>539387430</payload_hash>
+        <record_name>x_515994_list_wish_wish_item</record_name>
+        <reverted_from/>
+        <source>96bb2fa4db3e1010f541ab7dca9619cd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-20 06:33:04</sys_created_on>
+        <sys_id>bf9c2be4db3e1010f541ab7dca9619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1740a92264c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-20 06:33:04</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>f79c2be40d3e10103a0928e185d9d8b1</update_guid>
+        <update_guid_history>f79c2be40d3e10103a0928e185d9d8b1:539387430</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-20 08:11:26</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>666c1f73aacd4ea8bcf83d72eb078e90</sys_id>
+        <sys_metadata>7b9c2be4db3e1010f541ab7dca9619af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_515994_list_wish_wish_item</sys_name>
+        <sys_package display_value="list wish test" source="x_515994_list_wish">d6bb2fa4db3e1010f541ab7dca9619cb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="list wish test">d6bb2fa4db3e1010f541ab7dca9619cb</sys_scope>
+        <sys_scope_delete display_value="">978a397344774d748c055decab6e9b09</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_7b9c2be4db3e1010f541ab7dca9619af</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_7b9c2be4db3e1010f541ab7dca9619af">bf9c2be4db3e1010f541ab7dca9619b1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-20 08:11:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

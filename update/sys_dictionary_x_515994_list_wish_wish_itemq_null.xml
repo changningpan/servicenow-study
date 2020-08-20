@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="requester" table="x_515994_list_wish_wish_item">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_515994_list_wish_wish_itemq">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>encode_utf8=false</attributes>
+        <attributes/>
         <audit>false</audit>
-        <calculation/>
-        <choice>0</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Requester</column_label>
+        <column_label/>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,20 +27,20 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>requester</element>
+        <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Reference">reference</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
-        <max_length>32</max_length>
-        <name>x_515994_list_wish_wish_item</name>
+        <max_length>40</max_length>
+        <name>x_515994_list_wish_wish_itemq</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="sys_user">sys_user</reference>
+        <reference/>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -47,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-20 06:33:04</sys_created_on>
-        <sys_id>3b9c2be4db3e1010f541ab7dca9619c5</sys_id>
+        <sys_created_on>2020-08-20 08:08:00</sys_created_on>
+        <sys_id>ee524c34db7e1010f541ab7dca9619f7</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Requester</sys_name>
+        <sys_name>x_515994_list_wish_wish_itemq</sys_name>
         <sys_package display_value="list wish test" source="x_515994_list_wish">d6bb2fa4db3e1010f541ab7dca9619cb</sys_package>
         <sys_policy/>
         <sys_scope display_value="list wish test">d6bb2fa4db3e1010f541ab7dca9619cb</sys_scope>
-        <sys_update_name>sys_dictionary_x_515994_list_wish_wish_item_requester</sys_update_name>
+        <sys_update_name>sys_dictionary_x_515994_list_wish_wish_itemq_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-20 06:33:04</sys_updated_on>
+        <sys_updated_on>2020-08-20 08:08:00</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

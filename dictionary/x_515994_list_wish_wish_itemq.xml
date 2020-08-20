@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Wish Itemq" max_length="40" name="x_515994_list_wish_wish_itemq" type="collection">
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element display="true" label="URL" max_length="1024" name="url" type="url"/>
+    </element>
+</database>
